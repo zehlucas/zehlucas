@@ -4,10 +4,10 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=zehlucas&label=Profile%20views&color=0e75b6&style=flat" />
     <a href="https://wakatime.com/@d1cce755-a209-4928-b225-db496aecbdb5"><img src="https://wakatime.com/badge/user/d1cce755-a209-4928-b225-db496aecbdb5.svg" alt="Total time coded since May 7 2022" /></a>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zehlucas?style=social">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lucasbrandaodev?style=social">
-    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzq9lXu8TP37NuGm0o3Y7iA?style=social">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCzq9lXu8TP37NuGm0o3Y7iA?style=social">
+    <!<img alt="GitHub followers" src="https://img.shields.io/github/followers/zehlucas?style=social">
+    <a href="https://twitter.com/lucasbrandaodev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lucasbrandaodev?style=social"></a>
+    <a href="https://www.youtube.com/channel/UCzq9lXu8TP37NuGm0o3Y7iA" ><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzq9lXu8TP37NuGm0o3Y7iA?style=social"> </a>
+    <!<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCzq9lXu8TP37NuGm0o3Y7iA?style=social">
 </div>
 
 - 🔭 Atualmente trabalhando no **projeto de pesquisa "Ambiente de treinamento com aprendizagem por reforço para plataforma robótica aerossuportada", no mestrado em computação da Universidade Federal Fluminense**

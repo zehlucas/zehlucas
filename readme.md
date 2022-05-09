@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Lucas</h1>
+<h1 align="center">Oi 👋, Eu sou o José Lucas</h1>
 <h3 align="center">Seja bem vindo ao meu Git, puxe uma cadeira, pegue um café e fique à vontade</h3>
 
 <div align="center">

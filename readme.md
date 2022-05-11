@@ -35,7 +35,7 @@
     <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehlucas&count_private=true&show_icons=true&layout=compact" /> 
   </a>
   <a href="https://wakatime.com/@zehlucas">  
-    <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=d1cce755-a209-4928-b225-db496aecbdb5" />
+    <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=d1cce755-a209-4928-b225-db496aecbdb5&layout=compact" />
   </a>
 </div
 

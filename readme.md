@@ -31,7 +31,8 @@
 
 <h3 align="left">Meus repositórios de estudo:</h3>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zehlucas&repo=estudosia)](https://github.com/zehlucas/estudosia/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zehlucas&repo=pinnedcamera)](https://github.com/zehlucas/pinnedcamera/)
 
 <h3 align="left">Algumas métricas:</h3>
 

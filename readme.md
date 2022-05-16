@@ -47,6 +47,9 @@
 </div
 
 
+### Se quiser deixar seu Guithub assim também, dê uma conferida em [alguns vídeos](https://loom.com/share/folder/1cb40ff529294c75a56470553d138204)
+    
+    
 ## Referência
 
  - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)

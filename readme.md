@@ -18,6 +18,9 @@
 
 - 📫 Você pode me achar no **joselucasbrandaomontes@gmail.com**
 
+- ### Se quiser deixar seu Guithub assim também, dê uma conferida em [alguns vídeos](https://loom.com/share/folder/1cb40ff529294c75a56470553d138204)
+
+
 <h3 align="left">Você também me acha aqui</h3>
 <p align="left">
 <a href="https://twitter.com/lucasbrandaodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucasbrandaodev" height="30" width="40" /></a>
@@ -45,10 +48,6 @@
     <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zehlucas&layout=compact" />
   </a>
 </div
-
-
-### Se quiser deixar seu Guithub assim também, dê uma conferida em [alguns vídeos](https://loom.com/share/folder/1cb40ff529294c75a56470553d138204)
-    
     
 ## Referência
 

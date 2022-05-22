@@ -18,7 +18,7 @@
 
 - 📫 Você pode me achar no **joselucasbrandaomontes@gmail.com**
 
-- ### Se quiser deixar seu Guithub assim também, dê uma conferida em [alguns vídeos](https://loom.com/share/folder/1cb40ff529294c75a56470553d138204)
+- ### Se quiser deixar seu Guithub assim também, dê uma conferida [aqui no meu loom](https://loom.com/share/folder/1cb40ff529294c75a56470553d138204) e [aqui, no meu canal do youtube](https://www.youtube.com/channel/UCzq9lXu8TP37NuGm0o3Y7iA)
 
 
 <h3 align="left">Você também me acha aqui</h3>

@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://github.com/zehlucas/">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=zehlucas&count_private=true&show_icons=true" />
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=zehlucas&count_private=true&show_icons=true" />
   </a>
   <a href="https://wakatime.com/@zehlucas">  
     <img height="300em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zehlucas&layout=compact" />

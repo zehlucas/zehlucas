@@ -34,18 +34,18 @@
 
 <h3 align="left">Meus repositórios de estudo:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zehlucas&repo=estudosia)](https://github.com/zehlucas/estudosia/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zehlucas&repo=pinnedcamera)](https://github.com/zehlucas/pinnedcamera/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zehlucas&repo=Downloader-Estrategia-Concursos&layout=compact)](https://github.com/zehlucas/Downloader-Estrategia-Concursos/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zehlucas&repo=estudosia&theme=github_dark)](https://github.com/zehlucas/estudosia/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zehlucas&repo=pinnedcamera&theme=github_dark)](https://github.com/zehlucas/pinnedcamera/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zehlucas&repo=Downloader-Estrategia-Concursos&layout=compact&theme=github_dark)](https://github.com/zehlucas/Downloader-Estrategia-Concursos/)
 
 <h3 align="left">Algumas métricas:</h3>
 
 <div align="center">
   <a href="https://github.com/zehlucas/">
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=zehlucas&count_private=true&show_icons=true" />
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=zehlucas&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://wakatime.com/@zehlucas">  
-    <img height="300em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zehlucas&layout=compact" />
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zehlucas&layout=compact&theme=github_dark&langs_count=6&hide=Other&hide_border=true" />
   </a>
 </div
     
